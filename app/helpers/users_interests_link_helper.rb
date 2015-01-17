@@ -1,0 +1,2 @@
+module UsersInterestsLinkHelper
+end
